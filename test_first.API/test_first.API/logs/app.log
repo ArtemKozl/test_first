@@ -1,0 +1,21 @@
+﻿2024-10-25 15:18:41.889 +03:00 [INF] Now listening on: https://localhost:7117
+2024-10-25 15:18:41.932 +03:00 [INF] Now listening on: http://localhost:5163
+2024-10-25 15:18:41.938 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-25 15:18:41.940 +03:00 [INF] Hosting environment: Development
+2024-10-25 15:18:41.948 +03:00 [INF] Content root path: D:\test_first\test_first.API\test_first.API
+2024-10-25 15:18:54.068 +03:00 [INF] Валидирование прошло успешно: {"ConditionMoreOrLessValidated":"\u003E","StartDateValidated":"2023-10-22T11:30:45Z","EndDateValidated":"2024-10-22T17:30:45Z"}
+2024-10-25 15:18:54.090 +03:00 [INF] Начало GetDistinctsArrayByCondition: condition: >, numberOfDeliveries: 2
+2024-10-25 15:18:54.095 +03:00 [INF] Подключение к базе данных PostgreSQL успешно установлено.
+2024-10-25 15:18:55.465 +03:00 [INF] Завершение GetDistinctsArrayByCondition. Возращено 2 имен районов.
+2024-10-25 15:18:55.469 +03:00 [INF] Начало GetDeliveriesByConditions с районами: Semenkovo, Durovo, startWith: 22.10.2023 11:30:45, endWith: 22.10.2024 17:30:45
+2024-10-25 15:18:55.648 +03:00 [INF] Завершение GetDeliveriesByConditions. Получено 6 доставок.
+2024-10-25 15:18:55.676 +03:00 [INF] Добавление нового отчета о доставке: System.Text.Json.JsonDocument
+2024-10-25 15:18:55.834 +03:00 [INF] Отчет успешно добавлен в базу данных
+2024-10-25 15:18:55.836 +03:00 [INF] Валидация входных данных прошла успешно
+2024-10-25 15:19:35.205 +03:00 [INF] Валидирование прошло успешно: {"DistrictName":"Semenkovo","DateValidated":"2023-10-22T11:20:45Z"}
+2024-10-25 15:19:35.209 +03:00 [INF] Начало GetDeliveriesByConditions с районом: Semenkovo, начальное время: 22.10.2023 11:20:45
+2024-10-25 15:19:35.212 +03:00 [INF] Подключение к базе данных PostgreSQL успешно установлено.
+2024-10-25 15:19:35.256 +03:00 [INF] Завершение GetDeliveriesByConditions. Получено 2 доставок.
+2024-10-25 15:19:35.258 +03:00 [INF] Добавление нового отчета о доставке: System.Text.Json.JsonDocument
+2024-10-25 15:19:35.264 +03:00 [INF] Отчет успешно добавлен в базу данных
+2024-10-25 15:19:35.265 +03:00 [INF] Валидация входных данных прошла успешно

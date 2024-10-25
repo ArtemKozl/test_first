@@ -1,0 +1,11 @@
+D:\test_first\test_first.API\test_first.Core\bin\Debug\net8.0\test_first.Core.deps.json
+D:\test_first\test_first.API\test_first.Core\bin\Debug\net8.0\test_first.Core.dll
+D:\test_first\test_first.API\test_first.Core\bin\Debug\net8.0\test_first.Core.pdb
+D:\test_first\test_first.API\test_first.Core\obj\Debug\net8.0\test_first.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\test_first\test_first.API\test_first.Core\obj\Debug\net8.0\test_first.Core.AssemblyInfoInputs.cache
+D:\test_first\test_first.API\test_first.Core\obj\Debug\net8.0\test_first.Core.AssemblyInfo.cs
+D:\test_first\test_first.API\test_first.Core\obj\Debug\net8.0\test_first.Core.csproj.CoreCompileInputs.cache
+D:\test_first\test_first.API\test_first.Core\obj\Debug\net8.0\test_first.Core.dll
+D:\test_first\test_first.API\test_first.Core\obj\Debug\net8.0\refint\test_first.Core.dll
+D:\test_first\test_first.API\test_first.Core\obj\Debug\net8.0\test_first.Core.pdb
+D:\test_first\test_first.API\test_first.Core\obj\Debug\net8.0\ref\test_first.Core.dll

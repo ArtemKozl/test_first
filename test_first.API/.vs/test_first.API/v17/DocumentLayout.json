@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test_first\\test_first.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41CAA649-CE5E-4206-9702-F8F5708C5B73}|test_first.DataAccess\\test_first.DataAccess.csproj|d:\\test_first\\test_first.api\\test_first.dataaccess\\repositories\\deliveryresultreportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CAA649-CE5E-4206-9702-F8F5708C5B73}|test_first.DataAccess\\test_first.DataAccess.csproj|solutionrelative:test_first.dataaccess\\repositories\\deliveryresultreportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|d:\\test_first\\test_first.api\\test_first.api\\contracts\\deliveryfirstdeliveryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|solutionrelative:test_first.api\\contracts\\deliveryfirstdeliveryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|d:\\test_first\\test_first.api\\test_first.api\\contracts\\deliverymoreorlessrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|solutionrelative:test_first.api\\contracts\\deliverymoreorlessrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|d:\\test_first\\test_first.api\\test_first.api\\controllers\\deliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|solutionrelative:test_first.api\\controllers\\deliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B88F9C-6A51-44F7-880C-38A96DEA901A}|test_first.Application\\test_first.Application.csproj|d:\\test_first\\test_first.api\\test_first.application\\services\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B88F9C-6A51-44F7-880C-38A96DEA901A}|test_first.Application\\test_first.Application.csproj|solutionrelative:test_first.application\\services\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|d:\\test_first\\test_first.api\\test_first.core\\abstractions\\ideliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|solutionrelative:test_first.core\\abstractions\\ideliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|d:\\test_first\\test_first.api\\test_first.core\\abstractions\\ideliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|solutionrelative:test_first.core\\abstractions\\ideliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|d:\\test_first\\test_first.api\\test_first.core\\abstractions\\ideliveryresultreportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|solutionrelative:test_first.core\\abstractions\\ideliveryresultreportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|d:\\test_first\\test_first.api\\test_first.core\\abstractions\\iinputdatavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|solutionrelative:test_first.core\\abstractions\\iinputdatavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|d:\\test_first\\test_first.api\\test_first.core\\models\\validatedinputdatamoreorlesscondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|solutionrelative:test_first.core\\models\\validatedinputdatamoreorlesscondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|d:\\test_first\\test_first.api\\test_first.core\\models\\validatedinputdatafirstdeliverycondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|solutionrelative:test_first.core\\models\\validatedinputdatafirstdeliverycondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|d:\\test_first\\test_first.api\\test_first.core\\models\\deliveries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834C9F9-16BF-42F2-AC86-02218989B6DB}|test_first.Core\\test_first.Core.csproj|solutionrelative:test_first.core\\models\\deliveries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CAA649-CE5E-4206-9702-F8F5708C5B73}|test_first.DataAccess\\test_first.DataAccess.csproj|d:\\test_first\\test_first.api\\test_first.dataaccess\\entities\\deliveryresultpeportentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CAA649-CE5E-4206-9702-F8F5708C5B73}|test_first.DataAccess\\test_first.DataAccess.csproj|solutionrelative:test_first.dataaccess\\entities\\deliveryresultpeportentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CAA649-CE5E-4206-9702-F8F5708C5B73}|test_first.DataAccess\\test_first.DataAccess.csproj|d:\\test_first\\test_first.api\\test_first.dataaccess\\entities\\deliveryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CAA649-CE5E-4206-9702-F8F5708C5B73}|test_first.DataAccess\\test_first.DataAccess.csproj|solutionrelative:test_first.dataaccess\\entities\\deliveryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CAA649-CE5E-4206-9702-F8F5708C5B73}|test_first.DataAccess\\test_first.DataAccess.csproj|d:\\test_first\\test_first.api\\test_first.dataaccess\\repositories\\deliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CAA649-CE5E-4206-9702-F8F5708C5B73}|test_first.DataAccess\\test_first.DataAccess.csproj|solutionrelative:test_first.dataaccess\\repositories\\deliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CAA649-CE5E-4206-9702-F8F5708C5B73}|test_first.DataAccess\\test_first.DataAccess.csproj|d:\\test_first\\test_first.api\\test_first.dataaccess\\postgredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CAA649-CE5E-4206-9702-F8F5708C5B73}|test_first.DataAccess\\test_first.DataAccess.csproj|solutionrelative:test_first.dataaccess\\postgredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4415D59A-7C30-4C3E-A3A7-02BBC7CBD108}|test_first.Infrastructure\\test_first.Infrastructure.csproj|d:\\test_first\\test_first.api\\test_first.infrastructure\\inputdatavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4415D59A-7C30-4C3E-A3A7-02BBC7CBD108}|test_first.Infrastructure\\test_first.Infrastructure.csproj|solutionrelative:test_first.infrastructure\\inputdatavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4415D59A-7C30-4C3E-A3A7-02BBC7CBD108}|test_first.Infrastructure\\test_first.Infrastructure.csproj|d:\\test_first\\test_first.api\\test_first.infrastructure\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4415D59A-7C30-4C3E-A3A7-02BBC7CBD108}|test_first.Infrastructure\\test_first.Infrastructure.csproj|solutionrelative:test_first.infrastructure\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|d:\\test_first\\test_first.api\\test_first.api\\logs\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|solutionrelative:test_first.api\\logs\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|d:\\test_first\\test_first.api\\test_first.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|solutionrelative:test_first.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|d:\\test_first\\test_first.api\\test_first.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|solutionrelative:test_first.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|d:\\test_first\\test_first.api\\test_first.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|solutionrelative:test_first.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BE8F2-0584-4431-8200-CDDE11378F3B}|test-first.Tests\\test-first.Tests.csproj|d:\\test_first\\test_first.api\\test-first.tests\\inputdatavalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15BE8F2-0584-4431-8200-CDDE11378F3B}|test-first.Tests\\test-first.Tests.csproj|solutionrelative:test-first.tests\\inputdatavalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|d:\\test_first\\test_first.api\\test_first.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180356D1-ADE5-46DF-895A-92478B24F66A}|test_first.API\\test_first.API.csproj|solutionrelative:test_first.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDeliveryResultReportsRepository.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.Core\\Abstractions\\IDeliveryResultReportsRepository.cs",
+              "RelativeDocumentMoniker": "test_first.Core\\Abstractions\\IDeliveryResultReportsRepository.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.Core\\Abstractions\\IDeliveryResultReportsRepository.cs",
+              "RelativeToolTip": "test_first.Core\\Abstractions\\IDeliveryResultReportsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:16:35.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInputDataValidator.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.Core\\Abstractions\\IInputDataValidator.cs",
+              "RelativeDocumentMoniker": "test_first.Core\\Abstractions\\IInputDataValidator.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.Core\\Abstractions\\IInputDataValidator.cs",
+              "RelativeToolTip": "test_first.Core\\Abstractions\\IInputDataValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:16:33.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app.log",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.API\\logs\\app.log",
+              "RelativeDocumentMoniker": "test_first.API\\logs\\app.log",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.API\\logs\\app.log",
+              "RelativeToolTip": "test_first.API\\logs\\app.log",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-25T12:13:44.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InputDataValidatorTests.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test-first.Tests\\InputDataValidatorTests.cs",
+              "RelativeDocumentMoniker": "test-first.Tests\\InputDataValidatorTests.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test-first.Tests\\InputDataValidatorTests.cs",
+              "RelativeToolTip": "test-first.Tests\\InputDataValidatorTests.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:52:33.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeliveryFirstDeliveryRequest.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.API\\Contracts\\DeliveryFirstDeliveryRequest.cs",
+              "RelativeDocumentMoniker": "test_first.API\\Contracts\\DeliveryFirstDeliveryRequest.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.API\\Contracts\\DeliveryFirstDeliveryRequest.cs",
+              "RelativeToolTip": "test_first.API\\Contracts\\DeliveryFirstDeliveryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:08:40.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDeliveryService.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.Core\\Abstractions\\IDeliveryService.cs",
+              "RelativeDocumentMoniker": "test_first.Core\\Abstractions\\IDeliveryService.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.Core\\Abstractions\\IDeliveryService.cs",
+              "RelativeToolTip": "test_first.Core\\Abstractions\\IDeliveryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:07:39.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AQIAACQAAAAAAAAAAAAawDUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-24T22:04:22.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidatedInputDataFirstdeliveryCondition.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.Core\\Models\\ValidatedInputDataFirstdeliveryCondition.cs",
+              "RelativeDocumentMoniker": "test_first.Core\\Models\\ValidatedInputDataFirstdeliveryCondition.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.Core\\Models\\ValidatedInputDataFirstdeliveryCondition.cs",
+              "RelativeToolTip": "test_first.Core\\Models\\ValidatedInputDataFirstdeliveryCondition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T21:51:23.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeliveryResultPeportEntity.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.DataAccess\\Entities\\DeliveryResultPeportEntity.cs",
+              "RelativeDocumentMoniker": "test_first.DataAccess\\Entities\\DeliveryResultPeportEntity.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.DataAccess\\Entities\\DeliveryResultPeportEntity.cs",
+              "RelativeToolTip": "test_first.DataAccess\\Entities\\DeliveryResultPeportEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T21:47:54.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValidatedInputDataMoreOrLessCondition.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.Core\\Models\\ValidatedInputDataMoreOrLessCondition.cs",
+              "RelativeDocumentMoniker": "test_first.Core\\Models\\ValidatedInputDataMoreOrLessCondition.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.Core\\Models\\ValidatedInputDataMoreOrLessCondition.cs",
+              "RelativeToolTip": "test_first.Core\\Models\\ValidatedInputDataMoreOrLessCondition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:50:47.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InputDataValidator.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.Infrastructure\\InputDataValidator.cs",
+              "RelativeDocumentMoniker": "test_first.Infrastructure\\InputDataValidator.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.Infrastructure\\InputDataValidator.cs",
+              "RelativeToolTip": "test_first.Infrastructure\\InputDataValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:43:36.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.Infrastructure\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "test_first.Infrastructure\\MapperProfile.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.Infrastructure\\MapperProfile.cs",
+              "RelativeToolTip": "test_first.Infrastructure\\MapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:20:08.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeliveryResultReportsRepository.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.DataAccess\\Repositories\\DeliveryResultReportsRepository.cs",
+              "RelativeDocumentMoniker": "test_first.DataAccess\\Repositories\\DeliveryResultReportsRepository.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.DataAccess\\Repositories\\DeliveryResultReportsRepository.cs",
+              "RelativeToolTip": "test_first.DataAccess\\Repositories\\DeliveryResultReportsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:26:07.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeliveryMoreOrLessRequest.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.API\\Contracts\\DeliveryMoreOrLessRequest.cs",
+              "RelativeDocumentMoniker": "test_first.API\\Contracts\\DeliveryMoreOrLessRequest.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.API\\Contracts\\DeliveryMoreOrLessRequest.cs",
+              "RelativeToolTip": "test_first.API\\Contracts\\DeliveryMoreOrLessRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:20:20.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeliveryController.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.API\\Controllers\\DeliveryController.cs",
+              "RelativeDocumentMoniker": "test_first.API\\Controllers\\DeliveryController.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.API\\Controllers\\DeliveryController.cs",
+              "RelativeToolTip": "test_first.API\\Controllers\\DeliveryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:18:41.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDeliveryRepository.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.Core\\Abstractions\\IDeliveryRepository.cs",
+              "RelativeDocumentMoniker": "test_first.Core\\Abstractions\\IDeliveryRepository.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.Core\\Abstractions\\IDeliveryRepository.cs",
+              "RelativeToolTip": "test_first.Core\\Abstractions\\IDeliveryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:15:37.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeliveryService.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.Application\\Services\\DeliveryService.cs",
+              "RelativeDocumentMoniker": "test_first.Application\\Services\\DeliveryService.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.Application\\Services\\DeliveryService.cs",
+              "RelativeToolTip": "test_first.Application\\Services\\DeliveryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:00:15.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "test_first.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "test_first.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T14:41:20.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "test_first.API\\appsettings.Development.json",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.API\\appsettings.Development.json",
+              "RelativeToolTip": "test_first.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T14:41:13.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.API\\appsettings.json",
+              "RelativeDocumentMoniker": "test_first.API\\appsettings.json",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.API\\appsettings.json",
+              "RelativeToolTip": "test_first.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T14:41:10.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.API\\Program.cs",
+              "RelativeDocumentMoniker": "test_first.API\\Program.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.API\\Program.cs",
+              "RelativeToolTip": "test_first.API\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:35:47.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeliveryRepository.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.DataAccess\\Repositories\\DeliveryRepository.cs",
+              "RelativeDocumentMoniker": "test_first.DataAccess\\Repositories\\DeliveryRepository.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.DataAccess\\Repositories\\DeliveryRepository.cs",
+              "RelativeToolTip": "test_first.DataAccess\\Repositories\\DeliveryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:22:19.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostgreDbContext.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.DataAccess\\PostgreDbContext.cs",
+              "RelativeDocumentMoniker": "test_first.DataAccess\\PostgreDbContext.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.DataAccess\\PostgreDbContext.cs",
+              "RelativeToolTip": "test_first.DataAccess\\PostgreDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:51:30.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeliveryEntity.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.DataAccess\\Entities\\DeliveryEntity.cs",
+              "RelativeDocumentMoniker": "test_first.DataAccess\\Entities\\DeliveryEntity.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.DataAccess\\Entities\\DeliveryEntity.cs",
+              "RelativeToolTip": "test_first.DataAccess\\Entities\\DeliveryEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:49:50.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Deliveries.cs",
+              "DocumentMoniker": "D:\\test_first\\test_first.API\\test_first.Core\\Models\\Deliveries.cs",
+              "RelativeDocumentMoniker": "test_first.Core\\Models\\Deliveries.cs",
+              "ToolTip": "D:\\test_first\\test_first.API\\test_first.Core\\Models\\Deliveries.cs",
+              "RelativeToolTip": "test_first.Core\\Models\\Deliveries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:30:03.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

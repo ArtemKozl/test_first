@@ -1,0 +1,17 @@
+D:\test_first\test_first.API\test_first.DataAccess\bin\Debug\net8.0\test_first.DataAccess.deps.json
+D:\test_first\test_first.API\test_first.DataAccess\bin\Debug\net8.0\test_first.DataAccess.runtimeconfig.json
+D:\test_first\test_first.API\test_first.DataAccess\bin\Debug\net8.0\test_first.DataAccess.dll
+D:\test_first\test_first.API\test_first.DataAccess\bin\Debug\net8.0\test_first.DataAccess.pdb
+D:\test_first\test_first.API\test_first.DataAccess\bin\Debug\net8.0\test_first.Core.dll
+D:\test_first\test_first.API\test_first.DataAccess\bin\Debug\net8.0\test_first.Core.pdb
+D:\test_first\test_first.API\test_first.DataAccess\obj\Debug\net8.0\test_first.DataAccess.csproj.AssemblyReference.cache
+D:\test_first\test_first.API\test_first.DataAccess\obj\Debug\net8.0\test_first.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\test_first\test_first.API\test_first.DataAccess\obj\Debug\net8.0\test_first.DataAccess.AssemblyInfoInputs.cache
+D:\test_first\test_first.API\test_first.DataAccess\obj\Debug\net8.0\test_first.DataAccess.AssemblyInfo.cs
+D:\test_first\test_first.API\test_first.DataAccess\obj\Debug\net8.0\test_first.DataAccess.csproj.CoreCompileInputs.cache
+D:\test_first\test_first.API\test_first.DataAccess\obj\Debug\net8.0\test_fir.E0941412.Up2Date
+D:\test_first\test_first.API\test_first.DataAccess\obj\Debug\net8.0\test_first.DataAccess.dll
+D:\test_first\test_first.API\test_first.DataAccess\obj\Debug\net8.0\refint\test_first.DataAccess.dll
+D:\test_first\test_first.API\test_first.DataAccess\obj\Debug\net8.0\test_first.DataAccess.pdb
+D:\test_first\test_first.API\test_first.DataAccess\obj\Debug\net8.0\test_first.DataAccess.genruntimeconfig.cache
+D:\test_first\test_first.API\test_first.DataAccess\obj\Debug\net8.0\ref\test_first.DataAccess.dll

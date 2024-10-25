@@ -1,0 +1,17 @@
+D:\test_first\test_first.API\test_first.Infrastructure\bin\Debug\net8.0\test_first.Infrastructure.deps.json
+D:\test_first\test_first.API\test_first.Infrastructure\bin\Debug\net8.0\test_first.Infrastructure.dll
+D:\test_first\test_first.API\test_first.Infrastructure\bin\Debug\net8.0\test_first.Infrastructure.pdb
+D:\test_first\test_first.API\test_first.Infrastructure\bin\Debug\net8.0\test_first.Core.dll
+D:\test_first\test_first.API\test_first.Infrastructure\bin\Debug\net8.0\test_first.DataAccess.dll
+D:\test_first\test_first.API\test_first.Infrastructure\bin\Debug\net8.0\test_first.DataAccess.pdb
+D:\test_first\test_first.API\test_first.Infrastructure\bin\Debug\net8.0\test_first.Core.pdb
+D:\test_first\test_first.API\test_first.Infrastructure\obj\Debug\net8.0\test_first.Infrastructure.csproj.AssemblyReference.cache
+D:\test_first\test_first.API\test_first.Infrastructure\obj\Debug\net8.0\test_first.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\test_first\test_first.API\test_first.Infrastructure\obj\Debug\net8.0\test_first.Infrastructure.AssemblyInfoInputs.cache
+D:\test_first\test_first.API\test_first.Infrastructure\obj\Debug\net8.0\test_first.Infrastructure.AssemblyInfo.cs
+D:\test_first\test_first.API\test_first.Infrastructure\obj\Debug\net8.0\test_first.Infrastructure.csproj.CoreCompileInputs.cache
+D:\test_first\test_first.API\test_first.Infrastructure\obj\Debug\net8.0\test_fir.646695AD.Up2Date
+D:\test_first\test_first.API\test_first.Infrastructure\obj\Debug\net8.0\test_first.Infrastructure.dll
+D:\test_first\test_first.API\test_first.Infrastructure\obj\Debug\net8.0\refint\test_first.Infrastructure.dll
+D:\test_first\test_first.API\test_first.Infrastructure\obj\Debug\net8.0\test_first.Infrastructure.pdb
+D:\test_first\test_first.API\test_first.Infrastructure\obj\Debug\net8.0\ref\test_first.Infrastructure.dll
